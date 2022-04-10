@@ -345,10 +345,9 @@ if(isset($_POST['submit'])){
         <span>satisfied client</span>
     </div>
 
-
-
-
     </div>
+
+    <div class="swiper-pagination"></div>
 
     </div>
 

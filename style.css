@@ -286,6 +286,12 @@ section {
     font-size: 1.5rem;
 }
 
+.reviews .swiper-pagination-bullet {
+    height: 1rem;
+    width: 1rem;
+    background-color: var(--black);
+}
+
 .contact form {
     border-radius: .5rem;
     background-color: var(--light-bg);

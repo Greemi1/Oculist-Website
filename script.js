@@ -26,6 +26,11 @@ var swiper = new Swiper(".reviews-slider", {
       delay: 3500,
       disableOnInteraction: false,
     },
+    pagination: {
+      el: ".swiper-pagination",
+      dynamicBullets: true,
+      clickable: true,
+    },
     breakpoints: {
         640: {
           slidesPerView: 1,

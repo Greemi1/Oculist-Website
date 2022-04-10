@@ -177,7 +177,7 @@ if(isset($_POST['submit'])){
         <img src="images/doctor1.jpg" alt="">
         <span>specialist</span>
         <h3>john deo</h3>
-        <div class="share"></div>
+        <div class="share">
         <a href="#" class="fab fa-facebook-f"></a>
         <a href="#" class="fab fa-twitter"></a>
         <a href="#" class="fab fa-instagram"></a>

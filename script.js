@@ -22,6 +22,10 @@ var swiper = new Swiper(".reviews-slider", {
     loop: true,
     grabCursor: true,
     spaceBetween: 20,
+    autoplay: {
+      delay: 3500,
+      disableOnInteraction: false,
+    },
     breakpoints: {
         640: {
           slidesPerView: 1,

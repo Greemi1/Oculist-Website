@@ -239,6 +239,7 @@ section {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
     gap: 2rem;
+    padding-bottom: 4rem;
 }
 
 .reviews .box-container .box {
@@ -290,6 +291,10 @@ section {
     height: 1rem;
     width: 1rem;
     background-color: var(--black);
+}
+
+.reviews .swiper-pagination-bullet-active {
+    background-color: var(--red);
 }
 
 .contact form {

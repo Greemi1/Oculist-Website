@@ -23,7 +23,7 @@ var swiper = new Swiper(".reviews-slider", {
     grabCursor: true,
     spaceBetween: 20,
     autoplay: {
-      delay: 3500,
+      delay: 5500,
       disableOnInteraction: false,
     },
     pagination: {

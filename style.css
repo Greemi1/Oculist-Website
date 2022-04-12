@@ -133,6 +133,11 @@ section {
     min-height: 50vh;
 }
 
+.about .image img:hover {
+    transform: scale(1.1);
+    padding-right: 5rem;
+}
+
 .about .content span {
     font-size: 2rem;
     color: var(--red);
@@ -172,6 +177,10 @@ section {
 .services .box-container .box img {
     margin: 1rem 0;
     height: 5rem;
+}
+
+.services .box-container .box:hover img {
+    transform: translateY(-1rem);
 }
 
 
@@ -464,6 +473,12 @@ section {
 
     .home .content {
         width: auto;
+    }
+
+    .about .image img:hover {
+        transform: scale(1.1);
+        padding-right: 0;
+        padding-bottom: 2rem;
     }
 
 }

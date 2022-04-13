@@ -230,6 +230,11 @@ section {
     margin-bottom: 1rem;
 }
 
+.doctors .box-container .box img:hover {
+    transform: scale(1.1);
+    padding-bottom: 1rem;
+}
+
 .doctors .box-container .box span {
     font-size: 1.5rem;
     color: var(--red);
@@ -363,6 +368,10 @@ section {
     font-size: 2rem;
     background-color: var(--red);
     color: var(--white);
+}
+
+.footer .box-container .box:hover i {
+    transform: translateY(-1rem);
 }
 
 .footer .box-container .box h3 {

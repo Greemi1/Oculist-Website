@@ -407,19 +407,19 @@ if(isset($_POST['submit'])){
       <div class="box">
           <i class="fas fa-clock"></i>
           <h3>opening hours</h3>
-                <p> <span>monday - friday :</span> 10:00 am to 00:09 pm </p>
+                <p> <span>monday - friday :</span> 10:00 am to 09:00 pm </p>
                 <p> <span>sunday :</span> closed </p>
       </div>
 
       <div class="box">
           <i class="fas fa-map-marker-alt"></i>
           <h3>our address</h3>
-          <p>warsaw, poland</p>
+          <p>Warsaw, Poland</p>
       </div>
 
       </div>
 
-      <div class="credit"> &copy; copryright @ <?php echo date('Y') ?> by <span>greemi</span> </div>
+      <div class="credit"> &copy; copyright @ <?php echo date('Y') ?> by <span>greemi</span> </div>
 
     </section>
 

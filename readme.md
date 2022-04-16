@@ -10,6 +10,8 @@ The site is fully responsive and contains various animations
 - HTML
 - CSS
 - JavaScript
+- PHP
+- MySQL
 - Bootstrap
 - Swiper
 - Aos

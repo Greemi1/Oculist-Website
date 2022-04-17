@@ -1,6 +1,6 @@
-let menu = document.querySelector('#menu-btn');
-let navbar = document.querySelector('.header .nav');
-let header = document.querySelector('.header');
+const menu = document.querySelector('#menu-btn');
+const navbar = document.querySelector('.header .nav');
+const header = document.querySelector('.header');
 
 menu.onclick = () => {
     menu.classList.toggle('fa-times');
@@ -18,7 +18,7 @@ window.onscroll = () => {
     }
 }
 
-var swiper = new Swiper(".reviews-slider", {
+const swiper = new Swiper(".reviews-slider", {
     loop: true,
     grabCursor: true,
     spaceBetween: 20,

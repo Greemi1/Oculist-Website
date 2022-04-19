@@ -180,7 +180,7 @@ if(isset($_POST['submit'])){
         <div class="box-container container">
 
             <div class="box" data-aos="fade-up" data-aos-delay="150">
-                <img src="images/doctor1.jpg" alt="">
+                <img src="images/doktor1.png" alt="">
                 <span>specialist</span>
                 <h3>john deo</h3>
                 <div class="share">
@@ -192,7 +192,7 @@ if(isset($_POST['submit'])){
             </div>
 
             <div class="box" data-aos="fade-up" data-aos-delay="300">
-                <img src="images/doctor2.jpg" alt="">
+                <img src="images/doktor2.png" alt="">
                 <span>specialist</span>
                 <h3>john deo</h3>
                 <div class="share">
@@ -204,7 +204,7 @@ if(isset($_POST['submit'])){
             </div>
 
             <div class="box" data-aos="fade-up" data-aos-delay="450">
-                <img src="images/doctor3.jpg" alt="">
+                <img src="images/doktor3.png" alt="">
                 <span>specialist</span>
                 <h3>john deo</h3>
                 <div class="share">
@@ -216,7 +216,7 @@ if(isset($_POST['submit'])){
             </div>
 
             <div class="box" data-aos="fade-up" data-aos-delay="600">
-                <img src="images/doctor4.jpg" alt="">
+                <img src="images/doktor4.png" alt="">
                 <span>specialist</span>
                 <h3>john deo</h3>
                 <div class="share">
@@ -228,7 +228,7 @@ if(isset($_POST['submit'])){
             </div>
 
             <div class="box" data-aos="fade-up" data-aos-delay="750">
-                <img src="images/doctor5.jpg" alt="">
+                <img src="images/doktor5.png" alt="">
                 <span>specialist</span>
                 <h3>john deo</h3>
                 <div class="share">
@@ -240,7 +240,7 @@ if(isset($_POST['submit'])){
             </div>
 
             <div class="box" data-aos="fade-up" data-aos-delay="900">
-                <img src="images/doctor6.png" alt="">
+                <img src="images/doktor6.png" alt="">
                 <span>specialist</span>
                 <h3>john deo</h3>
                 <div class="share">

@@ -388,7 +388,7 @@ if(isset($_POST['submit'])){
             <span>your number :</span>
             <input type="number" name="number" placeholder="enter your number" class="box" required>
             <span>appointment date :</span>
-            <input type="datetime-local" name="date" class="box" required>
+            <input type="date" name="date" class="box" min="<?php echo date('Y-m-d'); ?>" required>
             <input type="submit" value="make appointment" name="submit" class="link-btn">
         </form>
 
@@ -444,6 +444,7 @@ if(isset($_POST['submit'])){
 
     <script>
     AOS.init({
+        disable: 'mobile',
         duration: 800,
         offset: 150,
     });
